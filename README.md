@@ -1,1 +1,0 @@
-# research-gap-finder
